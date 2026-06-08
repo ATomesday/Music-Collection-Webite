@@ -1,0 +1,38 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-vue": "^7.0.0",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "aplayer": "^1.10.1",
+    "axios": "^1.7.2",
+    "ckeditor5": "^43.0.0",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "postcss-pxtorem": "^6.1.0",
+    "sass": "^1.77.6",
+    "v3-scroll": "^1.0.4",
+    "vue": "^3.4.29",
+    "vue-masonry": "^0.16.0",
+    "vue-responsive-video-background-player": "^2.3.1",
+    "vue-router": "^4.4.0",
+    "vue3-plock": "^0.0.2",
+    "vuetify": "^3.6.11"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "naive-ui": "^2.38.2",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.0",
+    "vfonts": "^0.0.3",
+    "vite": "^5.3.1"
+  }
+}
